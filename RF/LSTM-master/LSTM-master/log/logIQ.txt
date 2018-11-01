@@ -1,0 +1,198 @@
+Loading Data
+Finished loading data!
+Training
+Step 1, Minibatch Loss= 3.2935, Training Accuracy= 0.156
+Testing Accuracy: 0.182
+Step 100, Minibatch Loss= 1.7506, Training Accuracy= 0.250
+Step 200, Minibatch Loss= 1.8265, Training Accuracy= 0.281
+Step 300, Minibatch Loss= 1.5524, Training Accuracy= 0.500
+Step 400, Minibatch Loss= 0.5305, Training Accuracy= 0.906
+Step 500, Minibatch Loss= 0.2525, Training Accuracy= 1.000
+Testing Accuracy: 0.904667
+Step 600, Minibatch Loss= 0.2360, Training Accuracy= 0.969
+Step 700, Minibatch Loss= 0.4023, Training Accuracy= 0.938
+Step 800, Minibatch Loss= 0.1160, Training Accuracy= 0.969
+Step 900, Minibatch Loss= 0.0803, Training Accuracy= 0.969
+Step 1000, Minibatch Loss= 0.0854, Training Accuracy= 1.000
+Testing Accuracy: 0.962333
+Step 1100, Minibatch Loss= 0.0979, Training Accuracy= 0.969
+Step 1200, Minibatch Loss= 0.0583, Training Accuracy= 1.000
+Step 1300, Minibatch Loss= 0.0570, Training Accuracy= 1.000
+Step 1400, Minibatch Loss= 0.0107, Training Accuracy= 1.000
+Step 1500, Minibatch Loss= 0.0134, Training Accuracy= 1.000
+Testing Accuracy: 0.982
+Step 1600, Minibatch Loss= 0.0324, Training Accuracy= 1.000
+Step 1700, Minibatch Loss= 0.0683, Training Accuracy= 0.969
+Step 1800, Minibatch Loss= 0.0388, Training Accuracy= 1.000
+Step 1900, Minibatch Loss= 0.0163, Training Accuracy= 1.000
+Step 2000, Minibatch Loss= 0.0108, Training Accuracy= 1.000
+Testing Accuracy: 0.984667
+Step 2100, Minibatch Loss= 0.0512, Training Accuracy= 0.969
+Step 2200, Minibatch Loss= 0.0112, Training Accuracy= 1.000
+Step 2300, Minibatch Loss= 0.0131, Training Accuracy= 1.000
+Step 2400, Minibatch Loss= 0.0050, Training Accuracy= 1.000
+Step 2500, Minibatch Loss= 0.0128, Training Accuracy= 1.000
+Testing Accuracy: 0.982667
+Step 2600, Minibatch Loss= 0.0045, Training Accuracy= 1.000
+Step 2700, Minibatch Loss= 0.0115, Training Accuracy= 1.000
+Step 2800, Minibatch Loss= 0.0071, Training Accuracy= 1.000
+Step 2900, Minibatch Loss= 0.0125, Training Accuracy= 1.000
+Step 3000, Minibatch Loss= 0.0349, Training Accuracy= 1.000
+Testing Accuracy: 0.985333
+Step 3100, Minibatch Loss= 0.0410, Training Accuracy= 0.969
+Step 3200, Minibatch Loss= 0.0167, Training Accuracy= 1.000
+Step 3300, Minibatch Loss= 0.0068, Training Accuracy= 1.000
+Step 3400, Minibatch Loss= 0.0085, Training Accuracy= 1.000
+Step 3500, Minibatch Loss= 0.0378, Training Accuracy= 1.000
+Testing Accuracy: 0.988667
+Step 3600, Minibatch Loss= 0.0036, Training Accuracy= 1.000
+Step 3700, Minibatch Loss= 0.0160, Training Accuracy= 1.000
+Step 3800, Minibatch Loss= 0.0024, Training Accuracy= 1.000
+Step 3900, Minibatch Loss= 0.0064, Training Accuracy= 1.000
+Step 4000, Minibatch Loss= 0.0052, Training Accuracy= 1.000
+Testing Accuracy: 0.994333
+Step 4100, Minibatch Loss= 0.0005, Training Accuracy= 1.000
+Step 4200, Minibatch Loss= 0.0172, Training Accuracy= 1.000
+Step 4300, Minibatch Loss= 0.0116, Training Accuracy= 1.000
+Step 4400, Minibatch Loss= 0.0135, Training Accuracy= 1.000
+Step 4500, Minibatch Loss= 0.0042, Training Accuracy= 1.000
+Testing Accuracy: 0.993
+Step 4600, Minibatch Loss= 0.0005, Training Accuracy= 1.000
+Step 4700, Minibatch Loss= 0.0069, Training Accuracy= 1.000
+Step 4800, Minibatch Loss= 0.0007, Training Accuracy= 1.000
+Step 4900, Minibatch Loss= 0.0016, Training Accuracy= 1.000
+Step 5000, Minibatch Loss= 0.0034, Training Accuracy= 1.000
+Testing Accuracy: 0.995
+Optimization Finished!
+Loading Data
+Finished loading data!
+Training
+Step 1, Minibatch Loss= 3.0233, Training Accuracy= 0.156
+Testing Accuracy: 0.192
+Step 100, Minibatch Loss= 1.8636, Training Accuracy= 0.188
+Step 200, Minibatch Loss= 1.7853, Training Accuracy= 0.156
+Step 300, Minibatch Loss= 1.7828, Training Accuracy= 0.156
+Step 400, Minibatch Loss= 1.0984, Training Accuracy= 0.688
+Step 500, Minibatch Loss= 0.4704, Training Accuracy= 0.875
+Testing Accuracy: 0.844667
+Step 600, Minibatch Loss= 0.2781, Training Accuracy= 0.969
+Step 700, Minibatch Loss= 0.3775, Training Accuracy= 0.906
+Step 800, Minibatch Loss= 0.1266, Training Accuracy= 0.969
+Step 900, Minibatch Loss= 0.1849, Training Accuracy= 0.969
+Step 1000, Minibatch Loss= 0.2081, Training Accuracy= 0.969
+Testing Accuracy: 0.954
+Step 1100, Minibatch Loss= 0.0529, Training Accuracy= 1.000
+Step 1200, Minibatch Loss= 0.2190, Training Accuracy= 0.969
+Step 1300, Minibatch Loss= 0.1060, Training Accuracy= 0.969
+Step 1400, Minibatch Loss= 0.0790, Training Accuracy= 1.000
+Step 1500, Minibatch Loss= 0.0292, Training Accuracy= 1.000
+Testing Accuracy: 0.972667
+Step 1600, Minibatch Loss= 0.0688, Training Accuracy= 1.000
+Step 1700, Minibatch Loss= 0.0271, Training Accuracy= 1.000
+Step 1800, Minibatch Loss= 0.0302, Training Accuracy= 1.000
+Step 1900, Minibatch Loss= 0.0328, Training Accuracy= 1.000
+Step 2000, Minibatch Loss= 0.0233, Training Accuracy= 1.000
+Testing Accuracy: 0.980667
+Step 2100, Minibatch Loss= 0.0222, Training Accuracy= 1.000
+Step 2200, Minibatch Loss= 0.0195, Training Accuracy= 1.000
+Step 2300, Minibatch Loss= 0.0396, Training Accuracy= 0.969
+Step 2400, Minibatch Loss= 0.0096, Training Accuracy= 1.000
+Step 2500, Minibatch Loss= 0.0146, Training Accuracy= 1.000
+Testing Accuracy: 0.979
+Step 2600, Minibatch Loss= 0.0650, Training Accuracy= 0.969
+Step 2700, Minibatch Loss= 0.0109, Training Accuracy= 1.000
+Step 2800, Minibatch Loss= 0.0540, Training Accuracy= 1.000
+Step 2900, Minibatch Loss= 0.0355, Training Accuracy= 1.000
+Step 3000, Minibatch Loss= 0.0101, Training Accuracy= 1.000
+Testing Accuracy: 0.990667
+Step 3100, Minibatch Loss= 0.0126, Training Accuracy= 1.000
+Step 3200, Minibatch Loss= 0.0192, Training Accuracy= 1.000
+Step 3300, Minibatch Loss= 0.0031, Training Accuracy= 1.000
+Step 3400, Minibatch Loss= 0.0055, Training Accuracy= 1.000
+Step 3500, Minibatch Loss= 0.0155, Training Accuracy= 1.000
+Testing Accuracy: 0.991333
+Step 3600, Minibatch Loss= 0.0094, Training Accuracy= 1.000
+Step 3700, Minibatch Loss= 0.0092, Training Accuracy= 1.000
+Step 3800, Minibatch Loss= 0.0056, Training Accuracy= 1.000
+Step 3900, Minibatch Loss= 0.0058, Training Accuracy= 1.000
+Step 4000, Minibatch Loss= 0.0026, Training Accuracy= 1.000
+Testing Accuracy: 0.994333
+Step 4100, Minibatch Loss= 0.0042, Training Accuracy= 1.000
+Step 4200, Minibatch Loss= 0.0099, Training Accuracy= 1.000
+Step 4300, Minibatch Loss= 0.0196, Training Accuracy= 1.000
+Step 4400, Minibatch Loss= 0.1503, Training Accuracy= 0.969
+Step 4500, Minibatch Loss= 0.0040, Training Accuracy= 1.000
+Testing Accuracy: 0.993333
+Step 4600, Minibatch Loss= 0.0080, Training Accuracy= 1.000
+Step 4700, Minibatch Loss= 0.0039, Training Accuracy= 1.000
+Step 4800, Minibatch Loss= 0.0017, Training Accuracy= 1.000
+Step 4900, Minibatch Loss= 0.0089, Training Accuracy= 1.000
+Step 5000, Minibatch Loss= 0.0019, Training Accuracy= 1.000
+Testing Accuracy: 0.992333
+Optimization Finished!
+Loading Data
+Finished loading data!
+Training
+Step 1, Minibatch Loss= 1.9474, Training Accuracy= 0.125
+Testing Accuracy: 0.175333
+Step 100, Minibatch Loss= 1.7221, Training Accuracy= 0.281
+Step 200, Minibatch Loss= 1.7391, Training Accuracy= 0.250
+Step 300, Minibatch Loss= 1.5157, Training Accuracy= 0.375
+Step 400, Minibatch Loss= 0.7591, Training Accuracy= 0.875
+Step 500, Minibatch Loss= 0.4179, Training Accuracy= 0.938
+Testing Accuracy: 0.844667
+Step 600, Minibatch Loss= 0.3445, Training Accuracy= 0.875
+Step 700, Minibatch Loss= 0.1966, Training Accuracy= 0.969
+Step 800, Minibatch Loss= 0.1857, Training Accuracy= 0.969
+Step 900, Minibatch Loss= 0.1344, Training Accuracy= 0.969
+Step 1000, Minibatch Loss= 0.1840, Training Accuracy= 0.969
+Testing Accuracy: 0.941
+Step 1100, Minibatch Loss= 0.0576, Training Accuracy= 1.000
+Step 1200, Minibatch Loss= 0.0406, Training Accuracy= 1.000
+Step 1300, Minibatch Loss= 0.0435, Training Accuracy= 1.000
+Step 1400, Minibatch Loss= 0.0361, Training Accuracy= 1.000
+Step 1500, Minibatch Loss= 0.0352, Training Accuracy= 1.000
+Testing Accuracy: 0.969
+Step 1600, Minibatch Loss= 0.0282, Training Accuracy= 1.000
+Step 1700, Minibatch Loss= 0.1333, Training Accuracy= 0.938
+Step 1800, Minibatch Loss= 0.0575, Training Accuracy= 0.969
+Step 1900, Minibatch Loss= 0.0106, Training Accuracy= 1.000
+Step 2000, Minibatch Loss= 0.0250, Training Accuracy= 1.000
+Testing Accuracy: 0.977333
+Step 2100, Minibatch Loss= 0.0231, Training Accuracy= 1.000
+Step 2200, Minibatch Loss= 0.0223, Training Accuracy= 1.000
+Step 2300, Minibatch Loss= 0.0200, Training Accuracy= 1.000
+Step 2400, Minibatch Loss= 0.0350, Training Accuracy= 1.000
+Step 2500, Minibatch Loss= 0.0148, Training Accuracy= 1.000
+Testing Accuracy: 0.986333
+Step 2600, Minibatch Loss= 0.0108, Training Accuracy= 1.000
+Step 2700, Minibatch Loss= 0.0543, Training Accuracy= 0.969
+Step 2800, Minibatch Loss= 0.0964, Training Accuracy= 0.969
+Step 2900, Minibatch Loss= 0.0406, Training Accuracy= 1.000
+Step 3000, Minibatch Loss= 0.0041, Training Accuracy= 1.000
+Testing Accuracy: 0.989333
+Step 3100, Minibatch Loss= 0.0093, Training Accuracy= 1.000
+Step 3200, Minibatch Loss= 0.0027, Training Accuracy= 1.000
+Step 3300, Minibatch Loss= 0.0040, Training Accuracy= 1.000
+Step 3400, Minibatch Loss= 0.0146, Training Accuracy= 1.000
+Step 3500, Minibatch Loss= 0.0061, Training Accuracy= 1.000
+Testing Accuracy: 0.991333
+Step 3600, Minibatch Loss= 0.0035, Training Accuracy= 1.000
+Step 3700, Minibatch Loss= 0.0422, Training Accuracy= 1.000
+Step 3800, Minibatch Loss= 0.0537, Training Accuracy= 1.000
+Step 3900, Minibatch Loss= 0.0328, Training Accuracy= 1.000
+Step 4000, Minibatch Loss= 0.0032, Training Accuracy= 1.000
+Testing Accuracy: 0.991333
+Step 4100, Minibatch Loss= 0.0046, Training Accuracy= 1.000
+Step 4200, Minibatch Loss= 0.0243, Training Accuracy= 1.000
+Step 4300, Minibatch Loss= 0.0015, Training Accuracy= 1.000
+Step 4400, Minibatch Loss= 0.0054, Training Accuracy= 1.000
+Step 4500, Minibatch Loss= 0.0038, Training Accuracy= 1.000
+Testing Accuracy: 0.990667
+Step 4600, Minibatch Loss= 0.0042, Training Accuracy= 1.000
+Step 4700, Minibatch Loss= 0.0020, Training Accuracy= 1.000
+Step 4800, Minibatch Loss= 0.0049, Training Accuracy= 1.000
+Step 4900, Minibatch Loss= 0.0085, Training Accuracy= 1.000
+Step 5000, Minibatch Loss= 0.0050, Training Accuracy= 1.000
+Testing Accuracy: 0.989667
+Optimization Finished!
