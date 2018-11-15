@@ -1,0 +1,12 @@
+Note: Script should be run in the same directory as the data it will process
+Data also expects a folder named "Output" to store the processed data
+
+3 variables:
+
+rowOffset: This says where the script should start looking for singal. In A data this looks like the first twn rows are just ID information, so set it to 10. I madei it a variable
+in case this  changes across transmitters.
+
+Threshold: I was unsure what you wanted for a viable signal, you can plug in the minimum value here. Currently it checks if both I and Q are are above this threshold. If so, that
+data point in selected to be written to output column vectors.
+
+Transmiter: Type in as 'A', 'B', etc.
